@@ -1,4 +1,4 @@
-# Selenium WebDriver Notları Deposu
+# Selenium WebDriver Notları
 
 Bu depo, Selenium WebDriver öğrenme sürecimde aldığım notları, kod örneklerini ve test senaryolarını içerir. 📝💻
 
