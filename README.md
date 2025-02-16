@@ -11,7 +11,7 @@ Bu depo, Selenium WebDriver öğrenme sürecimde aldığım notları, kod örnek
 ## 🚀 Testleri Nasıl Çalıştırırsınız?
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/sefaerdogdugil/seleniumwevdriver.git
+   git clone https://github.com/sefaerdogdugil/studyseleniumwebdriver.git
    ```
 2. Projeyi IDE'nizde açın (Örn: IntelliJ, Eclipse)
 3. **Java** ve **Selenium WebDriver** kurulu olduğundan emin olun.
