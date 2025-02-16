@@ -18,15 +18,9 @@ Bu depo, Selenium WebDriver öğrenme sürecimde aldığım notları, kod örnek
 4. Testleri terminal üzerinden veya IDE test çalıştırıcısı ile çalıştırın.
 
 ## 🛠️ Kullandığım Araçlar ve Teknolojiler
-- **Dil:** Java ☕️  
-- **Framework:** JUnit / TestNG 🧪  
+- **Dil:** Java ☕️    
 - **Otomasyon:** Selenium WebDriver 🌐  
-- **IDE:** IntelliJ IDEA / Eclipse 💡  
-
-## 📚 Gelecek İyileştirmeler
-- Daha fazla test senaryosu ekleme (örn: ödeme, profil yönetimi)
-- CI/CD entegrasyonu (örn: GitHub Actions)
-- Test raporları (Allure veya Extent Reports) ekleme
+- **IDE:** IntelliJ IDEA 💡
 
 ## 🤝 Katkıda Bulunun
 Depoyu fork’layabilir, sorun bildirebilir veya pull request gönderebilirsiniz. 🚀
