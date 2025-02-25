@@ -26,7 +26,7 @@ public class DemoDay12 {
         int totalPages = pages.size();
         System.out.println("Toplam sayfa sayısı = " + totalPages);
         for (int i = 1; i <= totalPages; i++) {
-            // Sayfa bağlantılarını tekrar al (DOM değişebilir)
+            // Sayfa bağlantılarını tekrar al
             pages = driver.findElements(By.xpath("//div[@class='main-outer']//li"));
 
             // İlgili sayfa bağlantısını al ve tıkla
@@ -54,6 +54,7 @@ public class DemoDay12 {
         for (WebElement row : rows) {
             System.out.println(row.getText());
         }
+        driver.quit();
     }
 
 }
